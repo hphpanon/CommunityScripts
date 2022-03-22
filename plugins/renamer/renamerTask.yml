@@ -1,7 +1,7 @@
 name: renamerTask
 description: Rename filename based to a template.
 url: https://github.com/stashapp/CommunityScripts
-version: 1.1
+version: 1.2
 exec:
   - python
   - "{pluginDir}/renamerTask.py"
